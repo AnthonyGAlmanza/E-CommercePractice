@@ -1,5 +1,7 @@
 package com.example.ecommerceDemo.controller;
 
+import com.example.ecommerceDemo.model.Product;
+import com.example.ecommerceDemo.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
